@@ -1,1 +1,1 @@
-# Multi-Agent-AI-Blog-Generatori
+# Multi-Agent-AI-Blog-Generator
