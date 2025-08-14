@@ -62,8 +62,11 @@ Combines the edited draft and SEO pack into a final markdown file for download.
 ## Results
 
 ✅ Fully functional multi-agent content generation pipeline.
+
 ✅ Produces ready-to-publish blog posts in markdown format.
+
 ✅ Customizable for different topics, audiences, and tones.
+
 ✅ Demonstrates AI workflow orchestration for portfolio and real-world use.
 
 
